@@ -41,7 +41,7 @@ body {
   align-items: center;
   text-align: center;
   gap: 18px;
-  box-shadow: 16px 16px 16px rgba(0, 0, 0, 0.1);
+  box-shadow: 16px 16px 16px rgba(0, 0, 0, 0.05);
 }
 
 #card img {
@@ -71,6 +71,7 @@ body {
   font-size: 11px;
   text-align: center;
   margin: 0 3px;
+  margin-top: 48px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
